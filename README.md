@@ -3,8 +3,8 @@
 <img align="right" width="40%" src="./bio-image.svg" />
 
 <p align="left">
-  <a href="www.linkedin.com/in/rafaeldcmartins">
-    <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rafaeldcmartins" />
+  <a href="https://www.linkedin.com/in/rafaeldcmartins">
+    <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins" />
   </a>
   <a href="mailto:rafaeldcmartins@gmail.com">
     <img src="https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com" />
@@ -19,19 +19,9 @@
 
 <br>
 
-<p align="left">
-  - :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | Node.js | PostgreSQL.</strong>
-</p>
-
-<p align="left">
-  - :mortar_board: Studying: <strong>ReactJS</strong>.
-</p>
-
-<p align="left">
-  - :briefcase: I'm currently available for work.
-</p>
-
-<br>
+- :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | Node.js | PostgreSQL.</strong>
+- :mortar_board: Studying: <strong>ReactJS</strong>.
+- :briefcase: I'm currently available for work.
 
 <img
   align="left"
