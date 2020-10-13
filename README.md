@@ -1,6 +1,6 @@
 # Rafael Martins
 
-<img align="right" width="40%" src="./bio-image.svg" />
+<img align="right" width="35%" src="./bio-image.svg" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rafaeldcmartins">
