@@ -19,9 +19,9 @@
 
 <br>
 
-- :rocket: Skills: <strong>HTML5 | CSS3(Sass) | JavaScript (ES6+) | Node.js | NPM / Yarn | PostgreSQL.</strong>
-- :mortar_board: Studying: <strong>ReactJS</strong>.
-- :briefcase: I'm currently available for work.
+- :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | ReactJS | Node.js | NPM / Yarn | PostgreSQL.</strong>
+- :mortar_board: Studying: <strong>Next.js | TypeScript</strong>.
+- :briefcase: I am currently looking for a job as Frontend Developer.
 
 <br>
 
